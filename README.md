@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [roselover.com](roselover.com)
 
-- 💬 Ask me about **Py, Golang, Js**
+- 💬 Ask me about **Py, Golang, Js, Rust, Vue**
 
 - 📫 How to reach me **roseloverx@proton.me**
 
