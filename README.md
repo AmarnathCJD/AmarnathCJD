@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/roseloverx" target="blank"><img src="https://img.shields.io/twitter/follow/roseloverx?logo=twitter&style=for-the-badge" alt="roseloverx" /></a> </p>
 
-- 🔭 I’m currently working on [Gogram](github.com/amarnathcjd/gogram)
+- 🔭 I’m currently working on [VFlix](github.com/amarnathcjd/vflix-app)
 
-- 🌱 I’m currently learning **Vue, Rust**
+- 🌱 I’m currently learning **JetpackCompose, Kotlin**
 
 - 👯 I’m looking to collaborate on [Gogram](github.com/amarnathcjd/gogram)
 
 - 👨‍💻 All of my projects are available at [roselover.com](roselover.com)
 
-- 💬 Ask me about **Py, Golang, Js, Rust, Vue**
+- 💬 Ask me about **Py, Golang, Js, Rust, Vue, Kotlin**
 
 - 📫 How to reach me **roseloverx@proton.me**
 
