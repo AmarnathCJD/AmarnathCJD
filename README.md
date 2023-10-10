@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amarnath CJD</h1>
 
-<p><b>I'm a full-stack developer from India, passionate about creating seamless and user-friendly web applications with expertise in front-end and back-end technologies.</b></p>
+<p><b>I'm a full-stack developer from India, passionate about creating seamless and user-friendly softwares with expertise in front-end and back-end technologies.</b></p>
 <br>
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ama_xnath)
