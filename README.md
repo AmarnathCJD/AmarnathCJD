@@ -5,6 +5,9 @@
 <p><b>I'm a full-stack developer from India, passionate about creating seamless and user-friendly softwares with expertise in front-end and back-end technologies.</b></p>
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ama_xnath)
 [![Linkedin: Amarnath](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amarnathcdj/)](https://www.linkedin.com/in/amarnathcdj/)
 <br>
