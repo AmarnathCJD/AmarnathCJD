@@ -6,7 +6,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
 
@@ -25,7 +25,7 @@
 ```text
 🌞 Morning                4679 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 🌆 Daytime                12476 commits       ██████████░░░░░░░░░░░░░░░   40.99 % 
-🌃 Evening                12789 commits       ███████████░░░░░░░░░░░░░░   42.02 % 
+🌃 Evening                12790 commits       ███████████░░░░░░░░░░░░░░   42.02 % 
 🌙 Night                  493 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -33,7 +33,7 @@
 ```text
 Monday                   3521 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 Tuesday                  4584 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Wednesday                4150 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Wednesday                4151 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 Thursday                 3856 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 Friday                   5205 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 Saturday                 4470 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
@@ -47,13 +47,17 @@ Sunday                   4651 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   50 mins             ████████░░░░░░░░░░░░░░░░░   32.31 % 
+HTML                     45 mins             ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+JSON                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+JavaScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -73,7 +77,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AmarnathCJD/AmarnathCJD/master/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2024 12:36:33 UTC
+ Last Updated on 04/04/2024 01:17:56 UTC
 <!--END_SECTION:waka-->
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ama_xnath)
