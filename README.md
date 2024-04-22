@@ -6,13 +6,15 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 486 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -25,7 +27,7 @@
 ```text
 🌞 Morning                4695 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 🌆 Daytime                12491 commits       ██████████░░░░░░░░░░░░░░░   40.92 % 
-🌃 Evening                12812 commits       ██████████░░░░░░░░░░░░░░░   41.97 % 
+🌃 Evening                12813 commits       ██████████░░░░░░░░░░░░░░░   41.98 % 
 🌙 Night                  525 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -33,11 +35,11 @@
 ```text
 Monday                   3531 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 Tuesday                  4586 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Wednesday                4171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Wednesday                4171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 Thursday                 3862 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Friday                   5221 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Friday                   5221 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 Saturday                 4498 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Sunday                   4654 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Sunday                   4655 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
 ```
 
 
@@ -77,7 +79,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AmarnathCJD/AmarnathCJD/master/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2024 12:38:08 UTC
+ Last Updated on 22/04/2024 01:21:54 UTC
 <!--END_SECTION:waka-->
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ama_xnath)
