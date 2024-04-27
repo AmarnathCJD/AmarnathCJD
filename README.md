@@ -6,7 +6,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20million%20lines%20of%20code-blue)
 
@@ -14,7 +14,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 529 Contributions in the Year 2024
+> 🏆 536 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -25,20 +25,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5433 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-🌆 Daytime                14373 commits       ██████████░░░░░░░░░░░░░░░   41.14 % 
-🌃 Evening                14547 commits       ██████████░░░░░░░░░░░░░░░   41.63 % 
+🌞 Morning                5441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+🌆 Daytime                14373 commits       ██████████░░░░░░░░░░░░░░░   41.13 % 
+🌃 Evening                14547 commits       ██████████░░░░░░░░░░░░░░░   41.62 % 
 🌙 Night                  587 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   3909 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Tuesday                  5338 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Tuesday                  5338 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 Wednesday                4549 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 Thursday                 4343 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Friday                   6079 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Saturday                 5407 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Friday                   6079 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Saturday                 5415 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 Sunday                   5315 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 ```
 
@@ -79,7 +79,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AmarnathCJD/AmarnathCJD/master/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2024 01:17:41 UTC
+ Last Updated on 27/04/2024 12:35:20 UTC
 <!--END_SECTION:waka-->
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ama_xnath)
