@@ -4,7 +4,7 @@
 
 <p><b>I'm a Full-stack + Android developer from India, passionate about creating seamless and user-friendly softwares with expertise in front-end and back-end technologies. I love combining my hobbies like IoT, coding and building various projects with AI and Web. Slightly obsessed with Home Automation and Home Labs.
 
-🔭 I’m currently working on Golang, Rust, ReactJS, Node.js, devOps, Android Native, Flutter, Next.js, Web APIs, Python ML
+🔭 I’m currently working on Golang, Rust, React.js, Node.js, devOps, Android Native, Flutter, Next.js, Web APIs, Python ML
   </b></p>
 <br>
 
