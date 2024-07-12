@@ -11,8 +11,7 @@
 <h2>About Me</h2>
 
 <p align="justify">I am a FullStack developer with 4 years of coding experience.</p>
-
-<p align="justify">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose.</p>
+<p align="justify">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier.</p>
 
 <p align="justify">Over the last few years, my knowledge and experience with Golang, Python, Rust have expanded, as has my main project (gogram). I am also fluent in developing well feat. Android Apps via kotlin and jetpack-compose within the java enviroinment.</p>
 
