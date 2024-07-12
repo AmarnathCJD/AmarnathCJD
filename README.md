@@ -8,7 +8,7 @@
   </b></p>
 <br>
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://profile-counter.glitch.me/amarnathcjd/count.svg"></h2>
+<h2>About Me</h2>
 
 <p align="justify">I am a FullStack developer with 4 years of coding experience.</p>
 
@@ -60,7 +60,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://envs.sh/ibi.svg" width="48" height="48" alt="Golang" />
+        <img src="https://envs.sh/ibA.svg" width="96" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
@@ -72,7 +72,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://envs.sh/ibB.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://envs.sh/ibB.svg" width="96" height="48" alt="Rust" />
       </a>
       <br>Rust
     </td>
@@ -84,31 +84,31 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://envs.sh/ibW.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://envs.sh/ibW.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://envs.sh/ibS.svg" width="48" height="48" alt="Docker" />
+        <img src="https://envs.sh/ibS.svg" width="48" height="48" alt="Kotlin" />
       </a>
       <br>Kotlin
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://envs.sh/ib0.svg" width="48" height="48" alt="Debian" />
+        <img src="https://envs.sh/ib0.svg" width="48" height="48" alt="NextJS" />
       </a>
       <br>NextJS
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://envs.sh/ibn.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://envs.sh/ibn.svg" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://envs.sh/ibT.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://envs.sh/ibT.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
   </tr>
@@ -130,6 +130,7 @@
 <h3 align="left">Now Listening To 👂</h3> 
 <b> ~ Todo Make Spotify Widget.</b>
 
+<img alt="Profile Hits" src="https://profile-counter.glitch.me/amarnathcjd/count.svg">
 <p align="center">
         <img src="https://envs.sh/ibp.svg" alt="Github Stats" />
 </p>
