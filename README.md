@@ -8,38 +8,130 @@
   </b></p>
 <br>
 
+<h2>About Me <img align="right" alt="Profile Hits" src="https://profile-counter.glitch.me/amarnathcjd/count.svg"></h2>
+
+<p align="justify">I am a FullStack developer with 4 years of coding experience.</p>
+
+<p align="justify">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose.</p>
+
+<p align="justify">Over the last few years, my knowledge and experience with Golang, Python, Rust have expanded, as has my main project (gogram). I am also fluent in developing well feat. Android Apps via kotlin and jetpack-compose within the java enviroinment.</p>
+
+<p align="justify">Most recently I've been trying to get better at using next.js and flutter.</p>
 
 [![Code Time](https://wakatime.com/badge/user/10d55880-38a5-4eda-91a6-9a041dc78976.svg)](https://wakatime.com/@10d55880-38a5-4eda-91a6-9a041dc78976)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ama_xnath)
-[![Linkedin: Amarnath](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amarnathcdj/)](https://www.linkedin.com/in/amarnathcdj/)
+
+<h3 align="left">Contact Me</h3>
+<a href="https://twitter.com/ama_xnath">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Follow">
+</a>
+<a href="https://www.linkedin.com/in/amarnathcdj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Amarnath">
+</a>
 <br>
-[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/amarnathcjd)
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://axmar.tech)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/amarnathcjd)
+<a href="https://www.github.com/amarnathcjd">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers">
+</a>
+<a href="http://axmar.tech">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://dev.to/amarnathcjd">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
+</a>
 <br>
-[![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://tx.me/roseloverx)
-[![Leetcode](https://img.shields.io/badge/-GitLab-FFA116?style=for-the-badge&logo=gitlab&logoColor=black)](https://leetcode.com/roseloverx/)
-[![StackOverflow](https://img.shields.io/badge/STKOverflow-%23E34F26?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20273276)
+<a href="https://tx.me/roseloverx">
+    <img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://leetcode.com/roseloverx/">
+    <img src="https://img.shields.io/badge/-GitLab-FFA116?style=for-the-badge&logo=gitlab&logoColor=black" alt="Leetcode">
+</a>
+<a href="https://stackoverflow.com/users/20273276">
+    <img src="https://img.shields.io/badge/STKOverflow-%23E34F26?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
+</a>
 
-## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=amarnathcjd&repo=gogram&theme=radical)](https://github.com/amarnathcjd/gogram) &nbsp;
+<h3 align="left"">Favorite Tech</h2>
 
-## 🧰 &nbsp;My toolbox
+> Tools, languages, and other things that I like to work with.
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://envs.sh/ibi.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://envs.sh/ibb.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://envs.sh/ibB.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://envs.sh/ibP.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://envs.sh/ibW.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://envs.sh/ibS.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://envs.sh/ib0.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://envs.sh/ibn.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://envs.sh/ibT.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Docker
+  </tr>
+</table>
 
-## 🧰 &nbsp;Github stats
-![]([https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=amarnathcjd&theme=merko&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=amarnathcjd&show_icons=true&theme=radical&include_all_commits=true&count_private=true))<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amarnathcjd&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=amarnathcjd&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+<h3 align="left">Past Works</h2>
+
+[![GoGram](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=amarnathcjd&repo=gogram&theme=dark)](https://github.com/amarnathcjd/gogram) &nbsp;
+[![GoGram](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=amarnathcjd&repo=cloudtorrent&theme=dark)](https://github.com/amarnathcjd/cloudtorrent) &nbsp;
+
+<h3 align="left">Github Stats</h2>
+
+<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=amarnathcjd&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amarnathcjd&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br/>
+<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=amarnathcjd&theme=dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
+<img src="https://raw.githubusercontent.com/amarnathcjd/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Github Visual Stats"><br/>
 
 ---
-### Visitor count
-<img src="https://profile-counter.glitch.me/amarnathcjd/count.svg" />
-</div>
+<h3 align="left">Now Listening To 👂</h3> 
+<b> ~ Todo Make Spotify Widget.</b>
+
+<p align="center">
+        <img src="https://envs.sh/ibp.svg" alt="Github Stats" />
+</p>
 
 
