@@ -126,13 +126,11 @@
 <img src="https://raw.githubusercontent.com/amarnathcjd/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Github Visual Stats"><br/>
 
 ---
-<h3 align="left">Now Listening To 👂</h3> 
-<b> ~ Todo Make Spotify Widget.</b>
+<h3 align="left">Now Listening To</h3> 
+![spotify-github-profile](https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true)
 
-<br/><br/>
+<br/><br/><br/>
 <img alt="Profile Hits" src="https://profile-counter.glitch.me/amarnathcjd/count.svg">
 <p align="center">
         <img src="https://envs.sh/ibp.svg" alt="Github Stats" />
 </p>
-
-
