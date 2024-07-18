@@ -10,12 +10,11 @@
 
 <h2>About Me</h2>
 
-<p align="justify">I am a FullStack developer with 4 years of coding experience.</p>
-<p align="justify">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier.</p>
+<p><b>I am a FullStack developer with 4 years of coding experience.
+My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier.
 
-<p align="justify">Over the last few years, my knowledge and experience with Golang, Python, Rust have expanded, as has my main project (gogram). I am also fluent in developing well feat. Android Apps via kotlin and jetpack-compose within the java enviroinment.</p>
-
-<p align="justify">Most recently I've been trying to get better at using next.js and flutter.</p>
+Over the last few years, my knowledge and experience with Golang, Python, Rust have expanded, as has my main project (gogram). I am also fluent in developing well feat. Android Apps via kotlin and jetpack-compose within the java enviroinment. Most recently I've been trying to get better at using next.js and flutter.
+</b></p>
 
 [![Code Time](https://wakatime.com/badge/user/10d55880-38a5-4eda-91a6-9a041dc78976.svg)](https://wakatime.com/@10d55880-38a5-4eda-91a6-9a041dc78976)
 
