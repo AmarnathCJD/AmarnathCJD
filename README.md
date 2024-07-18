@@ -127,7 +127,7 @@
 
 ---
 <h3 align="left">Now Listening To</h3> 
-![spotify-github-profile](https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true)
+<img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing">
 
 <br/><br/><br/>
 <img alt="Profile Hits" src="https://profile-counter.glitch.me/amarnathcjd/count.svg">
