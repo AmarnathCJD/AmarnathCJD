@@ -129,7 +129,7 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 <img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing">
 
 <br/><br/><br/>
-<img alt="Profile Hits" src="https://komarev.com/ghpvc/?username=amarnathcjd&label=Profile+Views&color=blue">
+<img alt="Profile Hits" src="https://moe-counter.glitch.me/get/@amarnathcjd">
 <p align="center">
         <img src="https://envs.sh/ibp.svg" alt="Github Stats" />
 </p>
