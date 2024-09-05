@@ -1,6 +1,6 @@
 <div align="r">
 
-<h1 align="center">Hi 👋, I'm Amarnath</h1>
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=2000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Amarnath'></h1>
 
 <p><b>I'm a Full-stack + Android developer from India, passionate about creating seamless and user-friendly softwares with expertise in front-end and back-end technologies. I love combining my hobbies like IoT, coding and building various projects with AI and Web. Slightly obsessed with Home Automation and Home Labs.
 
@@ -52,66 +52,16 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 
 <h3 align="left"">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+<h3 align="center">⚒️ Languages-Frameworks-Tools I've used ⚒️</h3>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=golang,python,rust,typescript,mongodb,kotlin,nextjs,androidstudio" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=flutter,docker,heroku,javascript,react,vue,tensorflow,html,css" /><br>
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://envs.sh/ibA.svg" width="96" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://envs.sh/ibb.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://envs.sh/ibB.svg" width="96" height="48" alt="Rust" />
-      </a>
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://envs.sh/ibP.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://envs.sh/ibW.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://envs.sh/ibS.svg" width="48" height="48" alt="Kotlin" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://envs.sh/ib0.svg" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://envs.sh/ibn.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://envs.sh/ibT.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-  </tr>
-</table>
 
+<div align='center'>
 <h3 align="left">Past Works</h2>
 
 [![GoGram](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=amarnathcjd&repo=gogram&theme=dark)](https://github.com/amarnathcjd/gogram) &nbsp;
@@ -123,13 +73,13 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarnathcjd&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br/>
 <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=amarnathcjd&theme=dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
 <img src="https://raw.githubusercontent.com/amarnathcjd/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Github Visual Stats"><br/>
+</div>
 
----
 <h3 align="left">Now Listening To</h3> 
 <img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing">
 
 <br/><br/><br/>
+<h3 align='left'>Profile Views</h3>
+<br/>
 <img alt="Profile Hits" src="https://moe-counter.glitch.me/get/@amarnathcjd">
-<p align="center">
-        <img src="https://envs.sh/ibp.svg" alt="Github Stats" />
-</p>
+
