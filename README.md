@@ -1,6 +1,10 @@
 <div align="r">
 
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=1600&height=70&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Amarnath'></h1>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmarnathCJD&theme=high-contrast&height=250" alt="GitHub Activity Graph">
+</div>
+<br/>
 
 <p><b>I'm a Full-stack + Android developer from India, passionate about creating seamless and user-friendly softwares with expertise in front-end and back-end technologies. I love combining my hobbies like IoT, coding and building various projects with AI and Web. Slightly obsessed with Home Automation and Home Labs.
 
