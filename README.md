@@ -53,10 +53,7 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
     <img src="https://img.shields.io/badge/STKOverflow-%23E34F26?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
 </a>
 
-
-<h3 align="left"">Favorite Tech</h2>
-
-<h3 align="center">⚒️ Languages-Frameworks-Tools I've used ⚒️</h3>
+<h3 align="left">⚒️ Languages-Frameworks-Tools I've used ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=golang,python,rust,typescript,mongodb,kotlin,nextjs,androidstudio" />
