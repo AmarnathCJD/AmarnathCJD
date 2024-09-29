@@ -3,6 +3,7 @@
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Amarnath'></h1>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmarnathCJD&theme=high-contrast&height=250" alt="GitHub Activity Graph">
+  <br/><br/><img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing">
 </div>
 <br/>
 
@@ -22,43 +23,26 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 
 [![Code Time](https://wakatime.com/badge/user/10d55880-38a5-4eda-91a6-9a041dc78976.svg)](https://wakatime.com/@10d55880-38a5-4eda-91a6-9a041dc78976)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/amarnathcjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amarnathcjd" height="30" width="40" /></a>
+<a href="https://twitter.com/amarnathcjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarnathcjd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amarnathcdj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarnathcdj" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/amarnathcjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amarnathcjd" height="30" width="40" /></a>
+<a href="https://tx.me/roseloverx" target="blank"><img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="amarnathcjd" height="40" width="40" /></a>
+<a href="mailto:roseloverx@proton.me" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/email-open.png" alt="amarnathcjd" height="40" width="40" /></a>
+</p>
 
-<h3 align="left">Contact Me</h3>
-<a href="https://twitter.com/ama_xnath">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Follow">
-</a>
-<a href="https://www.linkedin.com/in/amarnathcdj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Amarnath">
-</a>
-<br>
-<a href="https://www.github.com/amarnathcjd">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers">
-</a>
-<a href="http://axmar.tech">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://dev.to/amarnathcjd">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
-</a>
-<br>
-<a href="https://tx.me/roseloverx">
-    <img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://leetcode.com/roseloverx/">
-    <img src="https://img.shields.io/badge/-GitLab-FFA116?style=for-the-badge&logo=gitlab&logoColor=black" alt="Leetcode">
-</a>
-<a href="https://stackoverflow.com/users/20273276">
-    <img src="https://img.shields.io/badge/STKOverflow-%23E34F26?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
-</a>
 
 <h3 align="left">⚒️ Languages-Frameworks-Tools I've used ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=golang,python,rust,typescript,mongodb,kotlin,nextjs,androidstudio" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=flutter,docker,heroku,javascript,react,vue,tensorflow,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=golang,python,rust,typescript,javascript,kotlin,vue,c,nextjs,dotnet" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,materialui,react,vite,flutter,jquery,threejs,express,fastapi,flask,ktor,graphql,prisma,redis,mongodb,postgres,sqlite,opencv,tensorflow,docker,heroku,netlify,vercel,aws,azure,gcp,cloudflare,nginx,gradle,bash,cypress,selenium,qt,gtk,electron,arduino,java,idea,androidstudio,md" />
+    <br>
 </div>
 
 
@@ -76,11 +60,9 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 <img src="https://raw.githubusercontent.com/amarnathcjd/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Github Visual Stats"><br/>
 </div>
 
-<h3 align="left">Now Listening To</h3> 
-<img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing">
-
-<br/><br/><br/>
-<h3 align='left'>Profile Views</h3>
-<br/>
+<div align='center'>
+  <br/><br/>
+<p><a href="https://www.buymeacoffee.com/amarnathcjd"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amarnathcjd" /></a></p><br>
 <img alt="Profile Hits" src="https://moe-counter.glitch.me/get/@amarnathcjd">
-
+</div>
+</div>
