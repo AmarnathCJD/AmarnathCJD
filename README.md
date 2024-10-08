@@ -13,7 +13,7 @@
   </b></p>
 <br>
 
-<h2>About Me</h2>
+<h2><b>About Me</b></h2>
 
 <p><b>I am a FullStack developer with 4 years of coding experience.
 My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier.
@@ -25,8 +25,7 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.43%20million%20lines%20of%20code-blue)
 
-<br>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left"><b>Connect with me:</b></h2>
 <p align="left">
 <a href="https://codepen.io/amarnathcjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amarnathcjd" height="30" width="40" /></a>
 <a href="https://twitter.com/amarnathcjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarnathcjd" height="30" width="40" /></a>
@@ -37,7 +36,7 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 </p>
 
 
-<h3 align="center">⚒️ Languages-Frameworks-Tools I've used ⚒️</h3>
+<h2 align="center"><b>⚒️ Languages-Frameworks-Tools I've used ⚒️</b></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=golang,python,rust,typescript,javascript,kotlin,vue,c,nextjs,dotnet" />
@@ -48,12 +47,12 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 
 
 <div align='center'>
-<h3 align="left">Past Works</h2>
+<h2 align="left"><b>Past Works</b></h2>
 
 [![GoGram](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=amarnathcjd&repo=gogram&theme=dark&hide_border=true)](https://github.com/amarnathcjd/gogram) &nbsp;
 [![GoGram](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=amarnathcjd&repo=cloudtorrent&theme=dark&hide_border=true)](https://github.com/amarnathcjd/cloudtorrent) &nbsp;
 
-<h3 align="left">Github Stats</h2>
+<h2 align="left"><b>Github Stats</b></h2>
 
 <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=amarnathcjd&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarnathcjd&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br/>
