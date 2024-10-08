@@ -41,7 +41,7 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 <div align="center">
     <img src="https://skillicons.dev/icons?i=golang,python,rust,typescript,javascript,kotlin,vue,c,nextjs,dotnet" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,materialui,react,vite,flutter,jquery,threejs,express,fastapi,flask,ktor,graphql,prisma,redis,mongodb,postgres,sqlite,opencv,tensorflow,docker,heroku,netlify,vercel,aws,azure,gcp,cloudflare,nginx,gradle,bash,cypress,selenium,qt,gtk,electron,arduino,java,idea,androidstudio,md" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,materialui,react,vite,flutter,jquery,threejs,express,fastapi,flask,ktor,graphql,prisma,redis,mongodb,postgres,sqlite,opencv,tensorflow,docker,heroku,netlify,vercel,aws,azure,gcp,cloudflare,nginx,gradle,bash,cypress,selenium,qt,gtk,electron,arduino,java,idea,androidstudio,md&perline=10" />
     <br>
 </div>
 
