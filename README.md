@@ -23,8 +23,9 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 
 [![Code Time](https://wakatime.com/badge/user/10d55880-38a5-4eda-91a6-9a041dc78976.svg)](https://wakatime.com/@10d55880-38a5-4eda-91a6-9a041dc78976)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.43%20million%20lines%20of%20code-blue)
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/amarnathcjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amarnathcjd" height="30" width="40" /></a>
@@ -36,7 +37,7 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 </p>
 
 
-<h3 align="left">⚒️ Languages-Frameworks-Tools I've used ⚒️</h3>
+<h3 align="center">⚒️ Languages-Frameworks-Tools I've used ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=golang,python,rust,typescript,javascript,kotlin,vue,c,nextjs,dotnet" />
@@ -49,8 +50,8 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 <div align='center'>
 <h3 align="left">Past Works</h2>
 
-[![GoGram](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=amarnathcjd&repo=gogram&theme=dark)](https://github.com/amarnathcjd/gogram) &nbsp;
-[![GoGram](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=amarnathcjd&repo=cloudtorrent&theme=dark)](https://github.com/amarnathcjd/cloudtorrent) &nbsp;
+[![GoGram](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=amarnathcjd&repo=gogram&theme=dark&hide_border=true)](https://github.com/amarnathcjd/gogram) &nbsp;
+[![GoGram](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=amarnathcjd&repo=cloudtorrent&theme=dark&hide_border=true)](https://github.com/amarnathcjd/cloudtorrent) &nbsp;
 
 <h3 align="left">Github Stats</h2>
 
