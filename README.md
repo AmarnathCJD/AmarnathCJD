@@ -5,7 +5,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmarnathCJD&theme=github-compact&height=300" alt="GitHub Activity Graph">
   
   <br/><br/><img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing">
-  <img src="https://spotifynowplayin.vercel.app/api/spot" alt="Spotify Now Playing 2"><p><b>v2 Coming Soon.</b></p>
+  <img src="https://spotifynowplayin.vercel.app/api/spot?u=1" alt="Spotify Now Playing 2"><p><b>v2 Coming Soon.</b></p>
 </div>
 <br/>
 
