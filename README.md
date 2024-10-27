@@ -3,7 +3,9 @@
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Amarnath'></h1>
 <div align="center">
   <img src="https://nowplaying.aidenwallis.co.uk/671a81b4791002649385162c" alt="GitHub Activity Graph">
-  <br/><br/><img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing"> <p>v2 Coming.</p>
+  
+  <br/><br/><img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing">
+  <img src="https://spotifynowplayin.vercel.app/api/spot?u=1" alt="Spotify Now Playing 2"><p>v2 Coming.</p>
 </div>
 <br/>
 
