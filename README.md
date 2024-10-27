@@ -5,7 +5,7 @@
   <img src="https://nowplaying.aidenwallis.co.uk/671a81b4791002649385162c" alt="GitHub Activity Graph">
   
   <br/><br/><img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing">
-  <img src="https://spotifynowplayin.vercel.app/api/spot?u=1" alt="Spotify Now Playing 2"><p>v2 Coming.</p>
+  <img src="https://spotifynowplayin.vercel.app/api/spot" alt="Spotify Now Playing 2"><p>v2 Coming.</p>
 </div>
 <br/>
 
