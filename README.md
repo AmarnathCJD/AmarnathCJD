@@ -25,7 +25,7 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 
 [![Code Time](https://wakatime.com/badge/user/10d55880-38a5-4eda-91a6-9a041dc78976.svg)](https://wakatime.com/@10d55880-38a5-4eda-91a6-9a041dc78976)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.43%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.44%20million%20lines%20of%20code-blue)
 
 <h2 align="left"><b>Connect with me:</b></h2>
 <p align="left">
@@ -43,7 +43,7 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 <div align="center">
     <img src="https://skillicons.dev/icons?i=golang,python,rust,typescript,javascript,kotlin,vue,c,nextjs,dotnet" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,materialui,react,vite,flutter,jquery,threejs,express,fastapi,flask,ktor,graphql,prisma,redis,mongodb,postgres,sqlite,opencv,tensorflow,docker,heroku,netlify,vercel,aws,azure,gcp,cloudflare,nginx,gradle,bash,cypress,selenium,qt,gtk,electron,arduino,java,idea,androidstudio,md&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,materialui,react,vite,flutter,jquery,threejs,express,fastapi,flask,ktor,graphql,prisma,redis,mongodb,postgres,sqlite,opencv,tensorflow,docker,heroku,netlify,vercel,aws,azure,gcp,cloudflare,nginx,gradle,bash,cypress,selenium,qt,gtk,electron,arduino,java,idea,androidstudio,md&perline=8" />
     <br>
 </div>
 
