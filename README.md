@@ -3,8 +3,7 @@
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Amarnath'></h1>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmarnathCJD&theme=github-compact&height=300" alt="GitHub Activity Graph">
-  
-  <br/><br/><img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?s=1&svg=true&v=2">
+  <img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?s=1&svg=true&v=2">
 </div>
 <br/>
 
