@@ -6,6 +6,8 @@
   <br/>
   <br/>
   <img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?s=1&svg=true&v=2">
+  <br/>
+  <br/>
 </div>
 <br/>
 
