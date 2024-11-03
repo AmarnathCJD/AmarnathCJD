@@ -67,6 +67,6 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 <div align='center'>
   <br/><br/>
 <p><a href="https://www.buymeacoffee.com/amarnathcjd"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amarnathcjd" /></a></p><br>
-<img alt="Profile Hits" src="https://moe-counter.glitch.me/get/@amarnathcjd">
+<img alt="Profile Hits" src="https://count.getloli.com/@amarnathcjd?name=amarnathcjd&theme=booru-qualityhentais&padding=8&offset=0&align=top&scale=2&pixelated=0&darkmode=auto">
 </div>
 </div>
