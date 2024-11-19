@@ -25,7 +25,7 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 
 [![Code Time](https://wakatime.com/badge/user/10d55880-38a5-4eda-91a6-9a041dc78976.svg)](https://wakatime.com/@10d55880-38a5-4eda-91a6-9a041dc78976)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.44%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.44%20million%20lines%20of%20code-blue)
 
 <h2 align="left"><b>Connect with me:</b></h2>
 <p align="left">
