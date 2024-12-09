@@ -10,6 +10,8 @@
 <br/>
 
 <p><b>I'm a Full-stack + Android developer from India, passionate about creating seamless and user-friendly softwares with expertise in front-end and back-end technologies. I love combining my hobbies like IoT, coding and building various projects with AI and Web. Slightly obsessed with Home Automation and Home Labs.
+   
+Currently intrigued by reverse engineering websites, APKs, and Windows apps. 🫨
 
 🔭 I’m currently working on Golang, Rust, React.js, Node.js, devOps, Android Native, Flutter, Next.js, Web APIs, Python ML
   </b></p>
@@ -17,7 +19,7 @@
 
 <h2><b>About Me</b></h2>
 
-<p><b>I am a FullStack developer with 4 years of coding experience.
+<p><b>I am a FullStack developer with 3 (2021-) years of coding experience.
 My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier.
 
 Over the last few years, my knowledge and experience with Golang, Python, Rust have expanded, as has my main project (gogram). I am also fluent in developing well feat. Android Apps via kotlin and jetpack-compose within the java enviroinment. Most recently I've been trying to get better at using next.js and flutter.
