@@ -33,7 +33,6 @@ Over the last few years, my knowledge and experience with Golang, Python, Rust h
 <p align="left">
 <a href="https://codepen.io/amarnathcjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amarnathcjd" height="30" width="40" /></a>
 <a href="https://twitter.com/amarnathcjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarnathcjd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amarnathcdj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarnathcdj" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/amarnathcjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amarnathcjd" height="30" width="40" /></a>
 <a href="https://tx.me/roseloverx" target="blank"><img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="amarnathcjd" height="40" width="40" /></a>
 <a href="mailto:roseloverx@proton.me" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/email-open.png" alt="amarnathcjd" height="40" width="40" /></a>
